@@ -5,3 +5,4 @@ indent_style = space
 indent_size = 2
 end_of_line = lf
 # drop an unused branch
+# keep defaults in sync with the manifest
